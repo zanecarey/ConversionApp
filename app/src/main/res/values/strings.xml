@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConversionApp</string>
+    <string name="convert_from">Convert From</string>
+    <string name="default_teaspoon_val">1.0 teaspoon</string>
+</resources>
